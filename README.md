@@ -11,9 +11,6 @@
 - 🥅 2022 Goals: Get Internship as Full Stack Developer!
 - ⚡ Fun fact: I can sing as well! 🤣
 
-- 👀 Want to collaborate or start a new project with me?, [Gmail](mailto:tushar.basak9936@gmail.com).
-- 💬 ask me about anything, i am happy to help!
-
 ### Connect with me:
 
 [<img align="left" alt="My Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
